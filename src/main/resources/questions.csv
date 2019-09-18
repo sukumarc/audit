@@ -1,0 +1,458 @@
+Transferability,Adaptability,Does the application adapt to all hardware,software ?
+Transferability,Adaptability,Does the application adapt to all software platform ?
+Transferability,Adaptability,Does the application adapt  to all standard language?
+Transferability,Adaptability,Are concurrent users are able to access the software?
+Transferability,Adaptability,Does the technology exist to develop all elements of the system?
+Transferability,Adaptability,Does the system rely on proven technologies?
+Transferability,Adaptability,Are function and performance assured?
+Transferability,Adaptability,Can the configuration be adequately maintained?
+Transferability,Adaptability,What is the risk associated with the Adaptability?
+Transferability,Adaptability,Does a failure of adaption on every field cause a sensible user error message?
+Transferability,Adaptability,Is the system  required to add any component in order to adapt to a new software?
+Transferability,Adaptability,Have any product got  adaptation  rules and if so are all rules being applied?	"
+Transferability,Adaptability,Have all the dependices been put in the developing software in order to adapt in all environments?
+Transferability,Adaptability,External and internal  memory are provided  properly using memoy management ?
+Transferability,Adaptability,Does the application using the common communication channel to improve adaptability?
+Transferability,Adaptability,Is it easy to translate the product without having any ambiguity?
+Transferability,Adaptability,Does the application provide the basic information about the software parameters required to adaptation?
+Transferability,Installability,Does the application is opensource or lincesed ?
+Transferability,Installability,Does the application is able to install in all environment?
+Transferability,Installability,Is it compatible to 32bit and 64 bit ?
+Transferability,Installability,Does the  application meet the all the browser requirements?
+Transferability,Installability,Does the  application meet the all the operating system requirements?
+Transferability,Installability,Does the application meet all the memory and RAM requirements?
+Transferability,Installability,Have all the installtion procedures been correctly stated and understood ?
+Transferability,Installability,Have all the uninstalltion procedures been correctly stated and understood ?
+Transferability,Installability,Is the application requires to access from Admin while  installing and uninstalling?
+Transferability,Installability,Have all the basic and secondary requirements been correctly presented prior to installing and unstalling ?"
+Transferability,Installability,What is the current Service Level Objectives (SLO) that you have set for your IT infrastructure?"
+Transferability,Installability,What do you measure and track the installtion time? (This would help us structure Service Levels for you with your business IT users)"
+Transferability,Installability,Do you have your installtion components covered under a product / service warranty or Hardware contracts?"
+Transferability,Installability,Does your organization have a installion  plan or sites / organization from an IT perspective?
+Transferability,Installability,Are there currently any single point of installion  failures in your IT infrastructure,with respect to the service levels and uptime expectations? "
+Transferability,Installability,What applications in your IT infrastructure would you term as  ""Essay to install? Do they follow certain producers ?"
+Transferability,Installability,What applications in your IT infrastructure would you term as ""Difficult to install"" Do they follow certain producers ?"
+Transferability,Installability,How frequent the installed software is used for development ?
+Transferability,Installability,How much time enduring to install the software ? Transferability,Installability,
+Transferability,Installability,Are there any two way or three way authentication available to authenticate users ( other mechanisms are used (e.g. certificates,token, biometric, etc)"
+Transferability,Installability,Is the system administrator given the priviledge to include or exclude certain modules within the application?
+Transferability,Installability,Is there a connection medium used to establish the remote support (Eg: VPN, Dail-UP, BtoB VPN using IPSEC)?"
+Transferability,Installability,Do we have the internet  Usage policy?
+Transferability,Installability,Are there well defined protocols for the WLAN?
+Transferability,Installability,Is the contract between the network provider and LTI is well defined protection mechanism  in relation to insatllation ?"
+Transferability,Installability,Is there a way to ensure all the devices such as laptop and desktop are up to date?
+Transferability,Installability,Are  required standards defined for patch management?
+Transferability,Installability,can parts of the product be re-used elsewhere?
+Transferability,Replaceability,Are the replaceable procedures  specified are meaningful and do they address the root cause?"
+Transferability,Replaceability,How do the end-users and managers feel about the problem while replacing the application?"
+Transferability,Replaceability,Does the applcation is able to replace in all earlier specified environment?
+Transferability,Replaceability,What skills will operators need to be trained in? 
+Transferability,Replaceability,What tools are required to support to replace the product? 
+Transferability,Replaceability,Does the replacing component available? Do we get  same output  in all the environments?
+Transferability,Replaceability,Is it  necessary to apply methodology to analyze software replaceability and guide building replaceable system at the beginning of  phase?
+Transferability,Replaceability,Is there schedule overrun and is it  analyzed & controlled ?
+Transferability,Replaceability,"Are action identified/Implemented for Client feedback, Complaint, CSI ?"
+Transferability,Replaceability,Is replacing  work planning  available with responsibility assigned for each task ?
+Transferability,Replaceability,Is  communication frequency defined about the replacement?
+Transferability,Replaceability,Is there effort overrun and is it  analyzed & controlled ?
+Transferability,Replaceability,Is there schedule overrun and is it  analyzed & controlled ?
+Transferability,Replaceability,Is the replacement task well placed to achieve all contractual commitments (technical/Non technical ?
+Transferability,Replaceability,How is the work products replacment happening? Are they sufficiently checked and confirmed about application ussage before replacing?"
+Transferability,Replaceability,Are the replacing products checked/audited by the quality personnel before the replacing in client system?"
+Transferability,Replaceability,Is there sufficient time to perform the replacing of the modules as planned? 
+Transferability,Replaceability,Is there stability in the functionality and design in other modules , while the replacing  is in progress?"
+Transferability,Replaceability,"Does the development team have enough experience in the replacing  technology, platform or tools? "
+Transferability,Replaceability,Is there a mechanism to identify the vulnerabilities?
+Transferability,Replaceability,Does the product comply with common interfaces or official standards?
+Transferability,Replaceability,Are there back-up and retrieval process in place for critical data?
+Transferability,Replaceability,Do we have data retention policy in place (both hard and soft copies) in order to install the new software?"
+Functional Stability,Completeness,Has the scope and out of scope bean properly defined ?
+Functional Stability,Completeness,Have the requirements bean aligned with the business problem and properly captured and understood ?
+Functional Stability,Completeness,Have the requirements been put into user stories convering the smallest unit possible of business ?
+Functional Stability,Completeness,Have the dependencies between user stories correctly stated ?
+Functional Stability,Completeness,Are the postive and negative flow of user stories covered for exception handling ?
+Functional Stability,Completeness,Is the workflow completely defined in terms of user stories ?
+Functional Stability,Completeness,Have the non-functional requirements been correctly stated and understood ?
+Functional Stability,Completeness,Is the requirement traceability matrix maintained and upto date ?
+Functional Stability,Completeness,Has the business problem been correctly stated and understood by stakeholders ?
+Functional Stability,Completeness,Whether the Quality requirements of the product are obtained?
+Functional Stability,Completeness,Whether the authentication functionality is working as per expectation?
+Functional Stability,Completeness,Whether are requirements are allocated to one or more functions to implement it?
+Functional Stability,Completeness,Whether the Allocated requirements are documented in lower level requirements documents or specifications that apply to parts of a project?
+Functional Stability,Completeness,Whether  the larger functions are divided into different tasks ?
+Functional Stability,Completeness,Whether the inputs and outputs that are identified for functions are obtained?
+Functional Stability,Correctness,Is each user story / use case mapped to test scenario / test case and througly tested
+Functional Stability,Correctness,"Is the incoming and outgoing connectivity well defined , so that system is compatible with the interfaces ?"
+Functional Stability,Correctness,Is this a zero defect delivery ?
+Functional Stability,Correctness,"Is the level of known issues / defects defined , understood and accepted by the client ?"
+Functional Stability,Correctness,Whether the newly added requirement are added to userstories?
+Functional Stability,Correctness,Whether the inputs and outputs that are not obtained are corrected based on requirements?
+Functional Stability,Correctness,Whether the design/requirement contains error flow?
+Functional Stability,Appropriateness,Has the functional aspect as well as technical aspect of user stories been properly tested and documented ?
+Functional Stability,Appropriateness,Is the level of exposure of data completely defined for different user profiles ?
+Functional Stability,Appropriateness,Are the risks well defined in terms of complaince with upcoming / existing regulations and compatibilit with technicl architecture ?
+Functional Stability,Appropriateness,Are the user stories in line with legal / regulatory environment ?
+Functional Stability,Appropriateness,Are the user stories in line with industry / region standards and standard catalogues ?
+Functional Stability,Appropriateness,Is the user administration taken care of ?
+Usability,Accessibility,Are all the field prompts spelt correctly?,,,
+Usability,Accessibility,Is all the micro help text spelt correctly on this screen?,,,
+Usability,Accessibility,Is all validation/error messages spelt correctly?,,,
+Usability,Accessibility,Is all user input captured in upper/lower/both case consistently?,,,
+Usability,Accessibility,"If a field has default value, then is that displayed in screen?",,,
+Usability,Accessibility,Are appropriate page specific buttons and general operational buttons are available for each page?,,,
+Usability,Accessibility,Is there any unused control/label?,,,
+Usability,Accessibility ,Are labels and names indicate technical terms or user understandable words?,,,
+Usability,Accessibility ,"Whether option boxes, option buttons and command buttons are logically grouped together in clearly demarcated areas?",,,
+Usability,Accessibility ,"While designing a screen to address one requirement, is there any need of new screen/requirement (implicit) arises so that the screen is user friendly, which need to be estimated (example – search option in case of huge list in combo box)?",,,
+Usability,Accessibility ,Whether user can perform intended function of the page without anybody’s help? If 'no' then required help is provided in the same page?,,,
+Usability,Accessibility ,Is 'Search' and 'Sorting' facility addressed on needing base? (Alphabetic sorting is the default unless otherwise specified),,,
+Usability,Accessibility ,Are controls having proper length and width so that their labels are clear without truncation (for different monitor size)?,,,
+Usability,Appropriateness Recognizability,"When there is a preferable range of value/s available in screen, are they selected by default or highlighted in some way so that user understands it?",,,
+Usability,Appropriateness Recognizability,"There are few options available for selection in screen and as per requirement majority of users select a particular option, then by default that value/s is/are selected?",,,
+Usability,Appropriateness Recognizability,"When there are multiple rows for selection, ‘Select/unselect All’ option is provided?",,,
+Usability,Appropriateness Recognizability,"Is common name used for same entity across pages?
+Usability,Appropriateness Recognizability,"When 2 or more screen are having the same set of data for display/user input, whether they look alike with respect to grouping of data, placement, color etc?",,,
+Usability,Appropriateness Recognizability,Does home page has information on overall application /resolution /company information?,,,
+Usability,Appropriateness Recognizability,"Are status of different items/tasks indicated based on relevance in screen?
+Usability,Appropriateness Recognizability,"If user task is pending on any item, then whether are indications available in screen for logged in used, based on action to be done?
+Usability,Appropriateness Recognizability,"Is there any alert available for logged in user based on relevance/requirement?
+Usability,Appropriateness Recognizability,"If functionality in a screen requires any document as reference while filling the details, then provision to keep it open and then fill the details is available?
+Usability,Appropriateness Recognizability,Is change of screen resolution is affecting the application drastically? If 'yes' then proper information is conveyed to user? ,,,
+Usability,Appropriateness Recognizability,Is (minimum) Online Help available to the user for all basic commands and controls?,,,
+Usability,Appropriateness Recognizability,Are all read-only fields avoided in the TAB sequence? ,,,
+Usability,Appropriateness Recognizability,Are all disabled fields avoided in the TAB sequence?,,,
+Usability,Appropriateness Recognizability,Are the screen and field colors adjusted correctly for read-only mode (user is able to identify read-only fields in screen)?,,,
+Usability,Appropriateness Recognizability,Are all fields and controls disabled in read-only mode (Are validations are not removed in screen for read only controls and fields?)?,,,
+Usability,Appropriateness Recognizability,Whether components are enabled/disabled based on need?,,,
+Usability,Appropriateness Recognizability,For View only screens whether text boxes or other controls editable or clickable?,,,
+Usability,Appropriateness Recognizability,BreadCrums: Using should know the navigations how he ends at the respective page and should also go back to a step navigation?,,,
+Usability,Appropriateness Recognizability,Help pages when needed for complex functionality and help icons should be easily seen next to the headers,,,
+Usability,Appropriateness Recognizability,"Uniform design,Indentations,Pages and similar colors & fonts across pages.",,,
+Usability,Appropriateness Recognizability,Have used google Analytics or tools to check the navigation flow by users and page hits?,,,
+Usability,Appropriateness Recognizability,Is UI according to targeted Age group?   Ex: If the product is for old age users then it should be easily understanding for all the help pages,,,
+Usability,Appropriateness Recognizability ,How easy is to change the themes of the page and usage of SCSS,,,
+Usability,Appropriateness Recognizability ,Are navigation of pages happening from pop-ups?,,,
+Usability,Appropriateness Recognizability ,Is proper User error handling mechanism implemented & used in all pages?,,,
+Usability,Appropriateness Recognizability ,"If custom tags are used, then what all are the attributes.",,,
+Usability,Appropriateness Recognizability ,The application installs easily in a minimum number of steps,,,
+Usability,Appropriateness Recognizability ,"The installation of application is self explanatory, in case it needs assistance then Installation Guideline is provided.",,,
+Usability,Learnability ,"Installation guideline goes step by step, in exact way application has to be installed, giving the action by the person doing installation.",,,
+Usability,Learnability ,"If the application uses a disk cache, it also registers with the Disk Cleanup utility.",,,
+Usability,Learnability ,The application does not install icons to the Windows desktop without the user's permission.,,,
+Usability,Learnability ,The application works correctly if the user increases the size of the default font.,,,
+Usability,Learnability ,The application's uninstall process leaves no remaining files or registry entries other than files created by the user.,,,
+Usability,Learnability ,The application has its own database connection user id and password for security purpose.,,,
+Usability,Learnability ,"The database connection string, user id, password and other connection details are configurable.",,,
+Usability,Learnability ,Back end jobs are installed with minimum number of steps.,,,
+Usability,Learnability ,"Schedulers are installed with minimum number of steps. If many schedulers are involved, then installation of these is automated.",,,
+Usability,Operability,"Interface with other applications are automated, they don't require manual intervention for communicating to each other.",,,
+Usability,Operability,Master data are configurable using Admin options to the extent possible.,,,
+Usability,Operability,"XML and other file inputs are in application specific folder, created during installation, not manual creation. If this file input is from another application/interface, then the path is configurable.",,,
+Usability,Operability,User-generated data files are stored by default in the My Documents folder or a specific folder within application folder which need not be created by user manually.,,,
+Usability,Operability,The application does not write files to the root of the hard disk.,,,
+Usability,Operability,"Mail server configuration doesn't require code change, it is configurable externally.",,,
+Usability,Operability,"If the application is highly database driven, then stored procedures are used for communicating to database.",,,
+Usability,Operability,The installation guideline provides the Hardware/Software specifications as per requirement.,,,
+Usability,Operability,"The required supporting DLLs are installed along with main, single installable.",,,
+Usability,Operability,The stored procedures are installed along with database using specific database server restore command/s with minimal steps.,,,
+Usability,Operability,Does Standard page header is used in all the pages?,,,
+Usability,Operability,Is Header Contains Application Name?,,,
+Usability,Operability,Is Header Contains User Information?,,,
+Usability,Operability,"Is Header Contains Common links - Logout, Change Password, Update Email Id, Home , ",,,
+Usability,Operability,Is Header contains Company Logo?,,,
+Usability,Operability,Is screen background is uniform across the pages?,,,
+Usability,Operability,Does all windows have consistent look and feel?,,,
+Usability,Operability,Does all dialog boxes have consistent look and feel?,,,
+Usability,Operability,"Does Left & right margins of the controls, starting positions from top, in the screen are same and these margins are consistent on all the screens?",,,
+Usability,Operability,Is label fonts are uniform across pages and appropriate font is assigned based on significance/type of label?,,,
+Usability,Operability,Whether graphics add to page loading time heavily?,,,
+Usability,Operability,Whether graphics are in eye-tiring color?,,,
+Usability,Operability,Whether graphics/icons are intuitive/self-explanatory?,,,
+Usability,Operability,Whether graphics are of appropriate height/width?,,,
+Usability,Operability,"Does command buttons have similar size and shape, and same font & font size?",,,
+Usability,Operability,"Are row-column headers (in tables/grids) are uniform in color, font, case?",,,
+Usability,User Error Protection,"Is alignment of column headers, row headers, values are uniform across pages in tables and grids?",,,
+Usability,User Error Protection,Whether tables/grids are placed in proper positions?,,,
+Usability,User Error Protection,"Are buttons placed uniformly in all screens? Example: Save button may be common in all places; it should be of same look and should be in same position in all screens.",,,
+Usability,User Error Protection,Are all character or alphanumeric fields left justified? This is the default unless otherwise specified.,,,
+Usability,User Error Protection,Are all numeric fields right justified? This is the default unless otherwise specified.,,,
+Usability,User Error Protection,Whether all controls have proper title based on functionality they do?,,,
+Usability,User Error Protection,Is command/option button has proper names? In case of short names is proper help is given?,,,
+Usability,User Error Protection,"Does separate labels are used to explain functionality when buttons are self-explanatory? (Example – when button has search caption, no separate label is required)",,,
+Usability,User Error Protection,Does drop down has huge list of data?,,,
+Usability,User Error Protection,Does selection of first item in drop down by default is consciously done based on relevance/requirement?,,,
+Usability,User Error Protection,"Does drop down are populated uniformly? Example: One drop down has value selected by default. Another has ‘***’ as first entry’. Another has ‘Select’ as first entry.",,,
+Usability,User Error Protection,Does sorting the drop down list is done based on relevance/requirement? (Alphabetic sorting is the default unless otherwise specified),,,
+Usability,User Error Protection,"If on selection of an item from combo the page is to be refreshed with related data, then it should be done on click of combo. After selection from combo, if we are displaying new page, then use a Go button or Submit button. Whether this is taken care?",,,
+Usability,User Error Protection,List boxes-multiple selection is allowed based on requirement/relevance?,,,
+Usability,User Error Protection,"In a page, does all-important data in screen available without scrolling?",,,
+Usability,User Error Protection,Is horizontal scrolling is avoided to maximum extent?,,,
+Usability,User Error Protection,Is scrolling is given for tables/grids based on amount of data?,,,
+Usability,User Error Protection,Is it required to scroll page for every scroll of grid? ,,,
+Usability,User Error Protection,"When there is scrolling, whether the page/table/grid headers are also scroll? (This makes user to miss header information)",,,
+Usability,User Error Protection,Do all the fields edit boxes indicate the number of characters they will hold by their length? e.g. a 30 character field should be a lot longer,,,
+Usability,User Error Protection,Do all the fields edit boxes indicate the number of characters they will hold by their length? e.g. a 30 character field should be a lot longer,,,
+Usability,User Error Protection,"Is the user required to fix entries, which have failed validation tests?",,,
+Usability,User Error Protection,Have any fields got multiple validation rules and if so are all rules being applied?,,,
+Usability,User Error Protection,Is all the business validations are taken care?,,,
+Usability,User Error Protection,Blank and Non blank data are validated properly using trim?,,,
+Usability,User Error Protection,"Does based on filed type, relevant character entry validated?",,,
+Usability,User Error Protection,Is email id is validated using standard email format?,,,
+Usability,User Error Protection,"If a filed doesn’t take null value in database, then in screen whether it takes null?",,,
+Usability,User Error Protection,Are texts are allowed with space as prefix/post-fix in screen? Is ‘yes’ then while inserting into database are they trimmed?,,,
+Usability,User Error Protection,If the user enters an invalid value and clicks on the OK button (i.e. does not TAB off the field) is the invalid entry identified and highlighted correctly with an error message?,,,
+Usability,User Error Protection,Is validation consistently applied at screen level unless specifically required at field level?,,,
+Usability,User Error Protection,"After validation, cursor focus given for respective field?",,,
+Usability,User Error Protection,Mandatory fields are indicated?,,,
+Usability,User Error Protection,Do all mandatory fields require user input (is there any check to see that the fields indicated as mandatory are not accepting blank entries)?,,,
+Usability,User Error Protection,"Is validation messages are given one after the other so that user has to correct one by one as they come up or user will understand at once what are wrong? (Default is to validate together, unless specified)",,,
+Usability,User Interface,"User enters all data and submits the page. Now one of the validations is failed. With error message, whether previously entered values get cleared?",,,
+Usability,User Interface,The control goes to server in web application depending on specific requirement. The response time is within specified time as per requirement.,,,
+Usability,User Interface,Whether validation messages are appearing at eye-catching place?,,,
+Usability,User Interface,Does user need to scroll to see validation/error message?,,,
+Usability,User Interface,Whether validation messages are appearing at same place except for exceptional cases (preferably at LHS top corner after header)?,,,
+Usability,User Interface,Are the message follow a common format with respect to case and failed field indication?,,,
+Usability,User Interface,"Are messages are classified to indicate information, alert/caution, permission, minor error, major error and they are different in look and feel?",,,
+Usability,User Interface,Whether errors that need admin support are routed properly in screen with proper message and admin URL/email-id?,,,
+Usability,User Interface,For all character/alphanumeric fields check the field to ensure that there is a character limit specified and that this limit is exactly correct for the specified database size? (may be during validation or while keying in)?,,,
+Usability,User Interface,Whether special characters are eliminated based on need?,,,
+Usability,User Interface,"If a set of radio buttons represents a fixed set of values such as A, B and C then what happens if a blank value are retrieved from the database? (In some situations rows can be created on the database by other functions, which are not screen based, and thus the required initial values can be incorrect.)",,,
+Usability,User Interface,Is restricting length is resulting into truncation of data because of wrong length specification?,,,
+Usability,User Interface,Confirmation message given before deleting records?,,,
+Usability,User Interface,Is multiple login allowed based on requirement?,,,
+Usability,User Interface,Is role based access given for different operation/menu based on requirement?,,,
+Usability,User Interface,The screen resizing and minimizing is provided to application based on relevance/need/requirement?,,,
+Usability,User Interface,When the user Alt+Tab's to another application does this have any impact on the screen upon return to the application?,,,
+Usability,User Interface,Does Menu names are meaningful and convey functionality?,,,
+Usability,User Interface,Does menu are divided based on functional relevance?,,,
+Usability,User Interface,Individual page gets loaded within acceptable time limits as per requirement for all pages of application.,,,
+Usability,User Interface,Is need of Back/Cancel button is identified and provided at required place?,,,
+Usability,User Interface Aesthetics,Is Back/Cancel is navigating to correct page when there are multiple level of Back/Cancel operations?,,,
+Usability,User Interface Aesthetics,"Whether the user has to type too lengthier URL to get the main screen of the application? (The best way would be just typing application name, avoid lengthier URLs)",,,
+Usability,User Interface Aesthetics,Is short cut for different operations available in screen (combination of function-keys/alphabets with control or alt)? ,,,
+Usability,User Interface Aesthetics,If short cuts are available then are they contradictory to normal windows convention?,,,
+Usability,User Interface Aesthetics ,"Are there duplicate short cut keys available? (Ensure that the application is not confusing the user with same set of keys, mapping to different functionalities in different/same screens. Also for the same function avoid having different set of keys in 2 different screens.)",,,
+Usability,User Interface Aesthetics ,"If there is a Cancel Button on the screen, then pressing <Esc> is activating it? (Normally escape means cancel)",,,
+Usability,User Interface Aesthetics ,"When <Esc> is provided is there caution message to indicate changes will be lost, wherever applicable?",,,
+Usability,User Interface Aesthetics ,"Are all buttons accessible upon tab press? (Barring exception like control specific buttons-select, unselect etc)",,,
+Usability,User Interface Aesthetics ,"Is pop-up/child windows are modal/non-modal based on relevance?Example:Windows like date picker and search may be modal windows where in Export to excel and some help information may be non-modal.",,,
+Usability,User Interface Aesthetics ,Can a number of instances of this screen be opened at the same time and is this correct?,,,
+Usability,User Interface Aesthetics ,Is the screen modal? I.e. is the user prevented from accessing other functions when this screen is active and is this correct?,,,
+Usability,User Interface Aesthetics ,Can the screen be accessed correctly from the menu?
+Usability,User Interface Aesthetics ,Can the screen be accessed correctly from the toolbar?
+Usability,User Interface Aesthetics ,Is the data saved when double clicking on the close box closes the window?
+Usability,User Interface Aesthetics ,"When log out happens forcefully in case of exceptions, is browser back enables user to access then application again?",,,
+Reliability,Maturity,Is Maturity evaluation is to imporve the system?
+Reliability,Maturity,Is Maturity predictability and risk?
+Reliability,Availability,"Does appliacton's giving the exact result ,when we are running the same test case in  different time zones?"
+Reliability,Availability,Does the application's home page load quickly?
+Reliability,Fault Tolerance,Does Powe back having the system or network adapter ?
+Reliability,Fault Tolerance,Does power back up is coonnected to system or not?
+Reliability,Fault Tolerance,is Running backups on daily basis or monthly basis?
+Reliability,Fault Tolerance,"is Having a second device,  computer or network components available?"
+Reliability,Fault Tolerance,Does network is connected to an Internet then installing firewalls can be a wise way to avoid the virus?
+Reliability,Fault Tolerance,Does operating system and any running programs have the latest updates?
+Reliability,Recoverability,Backup& Restore Policy
+Reliability,Recoverability,"what is the retention Policy, No of days backup will be available on system or on tape"
+Reliability,Recoverability,Does Disaster recover server is configure in high avalibity &there geographicaly location & if primary server failed then how much it will take to bring up the secondary server.
+Reliability,Recoverability,Hardaware vendor policy and system supplier could not give due attention to the problem & no back up system supplier existed.
+Reliability,Recoverability,"System down due to the hardware failer & need to replace the hardware then, What will be the hardware replacement policy."
+Reliability,Recoverability,how much time is needed to fully reslove the problem
+Reliability,Recoverability,how many applications or services are running on the each server
+Reliability,Recoverability,Does committed hours of avaibility target?
+Reliability,Recoverability,Does Outage hours allowed permonth.?
+Reliability,Recoverability,why back up has not be scheduled 
+Reliability,Recoverability,how do you bring back  the server data when their has been hardware failer.
+Reliability,Recoverability,Policies are in place prescribing backup and recovery procedures.
+Reliability,Recoverability,All members understand the recovery plan and their duties during recovery.
+Reliability,Recoverability,System restore procedures are known to at least one trusted party outside the practice.
+Reliability,Recoverability, A copy of the recovery plan is safely stored off-site.
+Reliability,Recoverability, Files identified as critical are documented and listed in the backup configuration.
+Reliability,Recoverability, Backup schedule is timely and regular.
+Reliability,Recoverability, Every backup run is tested for its ability to restore the data accurately.
+Reliability,Recoverability, Backup media are physically secured.
+Reliability,Recoverability, Backup media stored off-site are encrypted.
+Reliability,Recoverability, Backup media are made unreadable before disposal.
+Reliability,Recoverability, Multiple backups are retained as a failsafe
+Compatibility,Coexistence,Are test conditions created under the proper Version?
+Compatibility,Coexistence,Are test conditions mapped to the Requirement Traceability Matrix id?
+Compatibility,Coexistence,Check for each requirement whether priority Isassigned?
+Compatibility,Coexistence,Is the Language Consistent?
+Compatibility,Coexistence,"Are test cases having  proper Step Name, Description and Expected result?"
+Compatibility,Coexistence,Are test steps properly numbered (if applicable)?
+Compatibility,Coexistence,Check whether the description and expected result are not generic and its specific to the requirement ?
+Compatibility,Coexistence,Check whether the Expected Results have only the Verification Points mentioned and not  steps to be performed?
+Compatibility,Coexistence,"While deleting a test folder, ensure to select correct option depending on whether test cases inside the folder need to be deleted?"
+Compatibility,Coexistence,Check whether test cases are mapped to appropriate test set folder?
+Compatibility,Coexistence,"Ensure that the tester who finds the defect needs to track the defect flow conforming to log, track, retest, confirm fix and close it?"
+Compatibility,Coexistence,Check whether the Author had followed the Defect Cycle till the Closure of the Defect?
+Compatibility,Coexistence,Check whether defects/ comments are mentioned for every step/Test case (Whichever is applicable) that fails?
+Compatibility,Coexistence,Defect closing comments should be properly defined?
+Compatibility,Coexistence,Check whether the attachments have proper description in the attachment tab?
+Compatibility,Coexistence,To perform a report validation ensure that scripts are run from Test lab?
+Compatibility,Coexistence,Ensure that  defects are logged from test lab with proper evidences?
+Compatibility,Coexistence,Is there a common data sharing platform?
+Compatibility,Coexistence,If yes what are the modules (application used for data sharing )?
+Compatibility,Coexistence,Is there a standard data exchange format defined ?
+Compatibility,Coexistence,Is there a a vision to convert an external non standard format to a standard format ?
+Compatibility,Coexistence,Is there a common access framework within each of the component in oder to have inter operatability?
+Compatibility,Coexistence,Is there a common authentication / authorization ?
+Compatibility,Coexistence,In case of different coexisting version of application features are those feature backward compatible ?
+Compatibility,Coexistence,Is the application made up of loosely coupled components which can be pluggable and independent ?
+Compatibility,Coexistence,Is the application / product compatible with overall enterprise  landscape ? With regards to hardware and software ?
+Compatibility,Coexistence,Is the application / product compatible with multiple operation system?
+Compatibility,Coexistence,"does the application support multiple device tyse like mobile , personal computer ,tablet?"
+Compatibility,Coexistence,Has localization, internationalization been considered in the design of the application ?
+Compatibility,Coexistence,Dose the application support multi goal enhancement ?
+Compatibility,Coexistence,"Is there a standardization of the business field across different application, to support eaqsy aggregation ?"
+Compatibility,Interoperability,Are the folders named appropriately as per standards? 
+Compatibility,Interoperability,Check whether the Test Plan is linked to respective requirements?
+Compatibility,Interoperability,Check whether the Test Plan is divided into appropriate Modules.
+Compatibility,Interoperability,Are test cases prepared inside the appropriate sub folders under the root folder?
+Compatibility,Interoperability,Is appropriate naming convention followed for the test case?
+Compatibility,Interoperability,Are all defects linked with appropriate test cases?
+Security,Confidentiality,Is confidentiality/user privacy protected?
+Security,Confidentiality,Does the site prompt for user name and password?
+Security,Confidentiality,"Does site ask for personal information of children? If so, is it acquired through secure pages?"
+Security,Confidentiality,Are concurrent log-ons permitted?
+Security,Confidentiality,Does the key/lock display on status bar for insecure/secure pages?
+Security,Confidentiality,Does the application/servers locks the user accounts who is trying to access  your site multiple times with invalid login/password
+Security,Integrity,Does the key/lock display on status bar for insecure/secure pages?
+Security,Integrity,"Test plan should also include a check for controls like packet filtering, firewall, host based intrusion detection system, network based intrusion detection system and proxies "
+Security,Integrity,"If using Digital Certificates, test the browser Cache by enrolling for the Certificate and Completing all of the required security information. After completing the application and installation of the certificate, try using the <-- Backspace key to see if that security information is still residing in Cache. If it is, then any user could walk up to the PC and access highly sensitive Digital Certificate security information."
+Security,Integrity,Does the application include time-outs due to inactivity?
+Security,Authenticity,"In SSL, verify the encryption done when client and server exchange public keys, allowing them to encode and decode communication."
+Security,Authenticity,Do the test plans for the system include tests to verify that security functionality has been properly implemented?
+Security,Authenticity,"Is Right Click, View, Source disabled?"
+Security,Authenticity,What happens when time out is exceeded? Are users still able to navigate through the site? 
+Security,Authenticity,Evaluate the design of the network and system under test
+Security,Authenticity,Check the IP address to avoid testing the wrong servers
+Security,Non Repudiation,"If the system is rated high on the business effect assessment or if it is Internet facing, has the company security office been consulted to determine whether or not additional security testing is required?"
+Security,Non Repudiation,Relevant information is written to the log files and that the information is traceable. 
+Security,Non Repudiation,Are you prevented from doing direct searches by editing content in the URL? (SQL injection)
+Security,Non Repudiation,"Application evaluation include the lack of source code, lack of documentation, and"
+Security,Non Repudiation,Unwillingness of business owners
+Security,Accountability,Relevant information is written to the log files and that the information is traceable. 
+Security,Accountability,In SSL verify that the encryption is done correctly and check the integrity of the information.
+Security,Accountability,Scripting on the server is not possible to plan or edit scripts without authorization. 
+Security,Accountability,Have you tested the impact of Secure Proxy Server?
+Security,Accountability,Have you verified the use of 128-bit Encryption?
+Security,Accountability,Do the test plans for the system include tests to verify that security functionality has been properly implemented?
+Security,Accountability,Server evaluation to focus on the operating system and server configuration.
+Security,Confidentiality,Are the user name and password guideline in place?
+Security,Confidentiality,After logging what kind of information stored in cookies?
+Security,Confidentiality,How the session and local storage are implemented?
+Security,Confidentiality,"do you have all system related info such as s/w, h/w technology"
+Security,Confidentiality,what kind privacy measures define for your project?
+Security,Confidentiality,Is load balancer and ip whitelisting is used?
+Security,Confidentiality,Are you checking defined user role have intern deal right?
+Security,Confidentiality,Is any secured information is passed in url using query parameter?
+Security,Non Repudiation,After session logged out is all data on browser like cookies cache are cleaned.
+Security,Authenticity,does password encrypt?
+Security,Authenticity,does your system require authentication for an access?
+Security,Authenticity,Apart from user name and password do you have any other securtity layer like bio metrics?
+Security,Authenticity,How do you provision to lock after multiple wrong attempts? how many wrong attempts allowed?
+Security,Authenticity,Do you no ports to access the application?
+Security,Authenticity,What is format of error message?
+Security,Authenticity,Is there categorization of user and their role?
+Security,Integrity,What happen when timeout is exceed? Are user still able to navigate through the site?
+Security,Integrity,Can you access previous session by changing details in url?
+Security,Integrity,Is cookies secured or not?
+Security,Integrity,Is right click allowed? if yes view source code option is enabling or not?
+Security,Integrity,Does your application allow multiple session at a time?
+Security,Integrity,Does it get logged off automatically? what is time frame defined?
+Security,Integrity,After logged out does it allow to go back to previous session.
+Security,Integrity,Is it opening last session if we are not sign out from last session?
+Security,Accountability,Is security testing done by external firm or agency?
+Maintainability,Analysability,Are the requirements collected properly?
+Maintainability,Analysability,Is the requirement specification template is used ?
+Maintainability,Analysability,What is the code coverage(i.e)Risk assesment before and after deployment?
+Maintainability,Analysability,Are the system requirement analysis ready to deploy the changes?
+Maintainability,Analysability,Are the functianlities developed as per FRD ?
+Maintainability,Analysability,Are the input and output parameters are as per FRD?
+Maintainability,Analysability,Is the architecural design followed as per SDD?
+Maintainability,Analysability,Has Development coding standards followed ?
+Maintainability,Analysability,Has Client coding standards followed ?
+Maintainability,Analysability,Are the test cases and documentation prepared?
+Maintainability,Analysability,Is Legal Impact analysis document ready?
+Maintainability,Analysability,Is the roll out plan ready?
+Maintainability,Analysability,Is the roll back plan ready in case of any failures?
+Maintainability,Analysability,Is the fix in roll back plan is temporary?
+Maintainability,Analysability,Does the test environment checked and compared with production?
+Maintainability,Analysability,Is the client security policy checked before deployment?
+Maintainability,Analysability,Is the system downtime required?
+Maintainability,Analysability,Does the downtime is estimated less than a day or less?
+Maintainability,Analysability,Are the softwares and hardwares to be used analysed?
+Maintainability,Analysability,Is the risk assesment ready?
+Maintainability,Analysability,Is daily maintenance planned?
+Maintainability,Analysability,Do all the entry points and exit points points are defined?
+Maintainability,Modularity,Are the errors and exceptions are defined and handled accordingly?
+Maintainability,Analysability,Does the technical solution document has traceability to all the business requirements
+Maintainability,Reusability,Is Service catalogue/service repository available for the project? 
+Maintainability,Testability,Is there any specific tools used to maintain the repository?
+Maintainability,Testability,Do you have traceability matrix from services/components to functional requirements/test caes?
+Maintainability,Modularity,Did the different components used were de-looped?
+Maintainability,Modularity,Are there any integration patterns used?
+Maintainability,Modularity,Are there any BPMN models used?
+Maintainability,Modularity,Have you built services as per the business process functionality?
+Maintainability,Modularity,Have you followed canonical model for re-usable services/components?
+Maintainability,Modularity,Have you defined the security aspect of the re-usable service?
+Maintainability,Modularity,"In case of reusable services,is there any virtualization component defined for exposing it on different integration pattern?"
+Maintainability,Analysability,Do you use any estimation tools/templates for the project?
+Maintainability,Analysability,Is your code modifiable? 
+Maintainability,Modifiability,Is your application easy to migrate to newer versions?
+Maintainability,Modifiability,Is the modification required to be backward compatible or its earlier version must be shutdown?
+Maintainability,Analysability,Does the system requires manual support to withstand further?
+Performance Efficiency,Resource Utilization,"Check the memory utilization, CPU utilization, caching etc. of the system while gradually moving towards the stress point. In idea situation the system should degrade gracefully and not abruptly"
+Performance Efficiency,Capacity,"Gradually increase the load (no of users) on the system till and beyond its maximum Capacity to check the breaking point of the system i.e., up to the point where the system gets down"
+Performance Efficiency,Time Behaviour,Is the application or certain features going to be used only during certain periods of time or will it be used continuously 24 hours a day 7 days a week? Test that the application is able to perform during those conditions. Will downtime be allowed or is that out of the question? 
+Performance Efficiency,Capacity,Verify that the application is able to meet the requirements and does not run out of memory or disk space.
+Performance Efficiency,Capacity,"Does the system degrade gracefully, not catastrophically, when it is pushed up to and beyond, its planned maximum capacity?"
+Performance Efficiency,Time Behaviour,"Does the system maintain performance and reliability levels over extended periods of use, for example, after running 24*7? (Endurance Testing)"
+Performance Efficiency,Capacity,At what point does performance degradation occur? (Capacity Planning)
+Performance Efficiency,Capacity,"Check for different kinds of workloads: Spike, Stepped and Gradual Ramp-up"
+Performance Efficiency,Time Behaviour,Does the home page load quickly? 
+Performance Efficiency,Capacity,Run the script for a nominal load as decided in the test strategy
+Performance Efficiency,Resource Utilization,Are the scripts running error free?
+Performance Efficiency,Resource Utilization,Is the system user friendly?
+Performance Efficiency,Resource Utilization,"Does the system meet its goals for response time, throughput, and availability? (as defined in requirements)"
+Performance Efficiency,Resource Utilization,"Performance of memory, CPU, file handling etc."
+Performance Efficiency,Capacity,"Does the system degrade gracefully, not catastrophically, when it is pushed up to and beyond, its planned maximum capacity?"
+Performance Efficiency,Time Behaviour,How do we arrive at SLAs?
+Performance Efficiency,Capacity,How are the server’s setup in production?
+Performance Efficiency,Capacity,Is the system reliable under heavy load?
+Performance Efficiency,Time Behaviour,What is the excepted uptime of the application?
+Performance Efficiency,Time Behaviour,What is the allowed down time of the application?
+Performance Efficiency,Capacity,Do you know when the system breaks down?
+Performance Efficiency,Time Behaviour,Do you know the new version of the software affect response time and throughput?
+Performance Efficiency,Resource Utilization,Is configuration sizing rightly done to achieve best performance level? If includes server and network configuration
+Performance Efficiency,Capacity,How system capacity tested and planed? When maximum number of user trying to use the application then how the system behaves?
+Performance Efficiency,Resource Utilization,Prepare the list of all  Business process in the application along with its criticality
+Performance Efficiency,Resource Utilization,Checkpoints in the system workflow where there is heavy demand (Check for rendezvous point)
+Performance Efficiency,Resource Utilization,a. System uses likely to consume a high level of system resources per event regardless of how frequently the event occurs
+Performance Efficiency,Resource Utilization,b. Timing critical or Timing sensitive system uses
+Performance Efficiency,Resource Utilization,c. Most popular system uses(frequently accessed)
+Performance Efficiency,Resource Utilization,Likely Bottlenecks and its causes(Bottleneck identification)
+Performance Efficiency,Resource Utilization,Which configuration provides the best performance level?(Configuration Sizing)
+Performance Efficiency,Time Behaviour,The application under test should be functionally stable and correct.
+Performance Efficiency,Time Behaviour,Whether the expected concurrent number of users are able to access the application at a time. 
+Performance Efficiency,Time Behaviour,Increase the number of users gradually till the maximum expected load is attained.
+Performance Efficiency,Time Behaviour,Does the application's Home page load quickly? 
+Performance Efficiency,Time Behaviour,"Is load time appropriate to content, even on a slow dial-in connection?"
+Performance Efficiency,Time Behaviour,"Does the system meet its goals for response time, throughput, and availability?(as defined in requirements)"
+Performance Efficiency,Time Behaviour,Have you defined standards for response time (i.e. all screens should paint within 10 seconds)?
+Performance Efficiency,Time Behaviour,"Does the system operate in the same way across different computer and network configurations, platforms and environments, with different mixes of other applications"
+Performance Efficiency,Time Behaviour,Does a new version of the software adversely affect response time and throughput?(Regression)
+Performance Efficiency,Time Behaviour,For lower volumes of database check for the system response when there is minimum data in the database. On lower volumes the system should have a faster response.
+Performance Efficiency,Time Behaviour,Do timeouts occur? This might lead to failures
+Performance Efficiency,Time Behaviour,Does the system slow down too much?
+Performance Efficiency,Time Behaviour,Are data lost or written without warning?
+Performance Efficiency,Capacity,Can the site sustain long periods of usage by multiple users?
+Performance Efficiency,Capacity,Can the site sustain long periods of continuous usage by 1 user?
+Performance Efficiency,Capacity,Is page loading performance acceptable over modems of different speeds?
+Performance Efficiency,Capacity,How reliable is the system under heavy work load?(Reliability)
+Performance Efficiency,Capacity,"Is the system scalable so that it can be upgraded in the future to accommodate the projected growth, without creating per item processing costs?"
+Performance Efficiency,Capacity,"To check whether the system can handle the gradual increase in volume of data, by keeping the load (no of users) constant."
+Performance Efficiency,Capacity,Will the site allow for large orders without locking out inventory if the transaction is invalid?
+Performance Efficiency,Capacity,Can the site sustain large transactions without crashing?
+Performance Efficiency,Capacity,Is the system is run with maximum amounts of data?
